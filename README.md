@@ -1,10 +1,10 @@
 # LinkedIn-WordCloud
-Parses a company's LinkedIn posts to get the word frequency.
+Parses a company's LinkedIn posts to see word frequency with Python's WordCloud.
 <br/>
 The code is best used in a notebook environment like Jupyter Notebook, which is prepackaged in Anaconda.
 <br/>
 <br/>
-Watch the walkthrough on YouTube:
+Watch the walkthrough on YouTube: https://youtu.be/wToqv_29s-8
 <br/>
 <br/>
 **Required:**
